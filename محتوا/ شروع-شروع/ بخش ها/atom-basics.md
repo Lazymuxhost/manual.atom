@@ -49,6 +49,7 @@ Atom has a number of settings and preferences you can modify in the Settings Vie
 
 This includes things like changing the theme, specifying how to handle wrapping, font settings, tab size, scroll speed and much more. You can also use this screen to install new packages and themes, which we'll cover in [Atom Packages](/using-atom/sections/atom-packages).
 
+
 To open the Settings View, you can:
 
 * Use the <span class="platform-mac">*Atom > Preferences*</span><span class="platform-windows">*File > Settings*</span><span class="platform-linux">*Edit > Preferences*</span> menu item in the menu bar
