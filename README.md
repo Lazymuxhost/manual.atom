@@ -24,6 +24,7 @@ To check the current progress and planned content of the book, check out the [ou
 * You'll need the bundler Ruby Gem installed. You can do this with `gem install bundler`.
 * You'll need [Node installed](https://nodejs.org/en/download/), too. The required version can be found in [`package.json`](package.json).
 
+
 ### Fetching dependencies
 
 You can always fetch the latest dependencies by opening the command line and running `script/bootstrap`:
